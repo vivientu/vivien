@@ -2,10 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vivientu.com/categories/</loc>
+    <loc>https://vivientu.com/post/20230626/</loc>
+    <lastmod>2023-06-25T21:45:10+08:00</lastmod>
   </url><url>
-    <loc>https://vivientu.com/tags/</loc>
+    <loc>https://vivientu.com/categories/a/</loc>
+    <lastmod>2023-06-25T21:45:10+08:00</lastmod>
+  </url><url>
+    <loc>https://vivientu.com/categories/</loc>
+    <lastmod>2023-06-25T21:45:10+08:00</lastmod>
+  </url><url>
+    <loc>https://vivientu.com/post/</loc>
+    <lastmod>2023-06-25T21:45:10+08:00</lastmod>
   </url><url>
     <loc>https://vivientu.com/</loc>
+    <lastmod>2023-06-25T21:45:10+08:00</lastmod>
+  </url><url>
+    <loc>https://vivientu.com/tags/</loc>
   </url>
 </urlset>

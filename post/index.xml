@@ -1,28 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Vivien Blog</title>
-    <link>https://zhaohuabing.com/post/</link>
-    <description>Recent content in Posts on Vivien Blog</description>
+    <title>Posts on Vivien Tu</title>
+    <link>https://vivientu.com/post/</link>
+    <description>Recent content in Posts on Vivien Tu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://zhaohuabing.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 25 Jun 2023 21:45:10 +0800</lastBuildDate><atom:link href="https://vivientu.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>An Example Post</title>
-      <link>https://zhaohuabing.com/post/2023-03-26-copy/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <title>20230626</title>
+      <link>https://vivientu.com/post/20230626/</link>
+      <pubDate>Sun, 25 Jun 2023 21:45:10 +0800</pubDate>
       
-      <guid>https://zhaohuabing.com/post/2023-03-26-copy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Example Post</title>
-      <link>https://zhaohuabing.com/post/2023-03-26/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhaohuabing.com/post/2023-03-26/</guid>
-      <description></description>
+      <guid>https://vivientu.com/post/20230626/</guid>
+      <description>123 2 3 </description>
     </item>
     
   </channel>
