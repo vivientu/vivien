@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vivien Tu</title>
-    <link>https://vivientu.com/</link>
+    <link>https://www.vivientu.com/</link>
     <description>Recent content on Vivien Tu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 25 Jun 2023 21:45:10 +0800</lastBuildDate><atom:link href="https://vivientu.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jul 2023 21:15:38 +0800</lastBuildDate><atom:link href="https://www.vivientu.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>初學花式滑冰要花多少錢？</title>
+      <link>https://www.vivientu.com/post/20230715-beginner-figure-skating-expense/</link>
+      <pubDate>Sat, 15 Jul 2023 21:15:38 +0800</pubDate>
+      
+      <guid>https://www.vivientu.com/post/20230715-beginner-figure-skating-expense/</guid>
+      <description>我 23 歲開始接觸花式滑冰，當時是在 youtube 上看到俄羅斯的花滑少女 Alina Zagitova ，我被她在冰上的舞姿感動到不行，平常只在地面上跳舞的我，開始對冰上跳舞產生憧憬，</description>
+    </item>
+    
     <item>
       <title>20230626</title>
-      <link>https://vivientu.com/post/20230626/</link>
+      <link>https://www.vivientu.com/post/20230626/</link>
       <pubDate>Sun, 25 Jun 2023 21:45:10 +0800</pubDate>
       
-      <guid>https://vivientu.com/post/20230626/</guid>
+      <guid>https://www.vivientu.com/post/20230626/</guid>
       <description>123 2 3 </description>
     </item>
     
